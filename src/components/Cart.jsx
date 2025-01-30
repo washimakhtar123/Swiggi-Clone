@@ -1,6 +1,7 @@
 import React from "react";
 
 const Cart = () => {
+    //comment
   const cartItems = [
     {
       id: 1,
